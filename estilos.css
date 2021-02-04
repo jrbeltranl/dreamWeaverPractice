@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.header{
+	background: #2B2727;
+	padding: 5px;
+	text-align: center;
+	color: white;
+	font-size:40px;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	width:100%;
+	left: 0;
+	bottom: 0;
+	margin-left: 0px;
+}
+
+.content{
+	text-align: justify;
+	font-size: 20px;
+	width: 85%;
+	margin:auto;
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+
+.menu{
+	padding: 20px;
+	text-align: center;
+	background: #282944;
+	color: white;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+}
+
+.menuItem{
+	padding-right: 40px;
+	padding-left: 40px;
+	font-size: 25px;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+
+.menuItem:hover{
+	color:aqua;
+	cursor: pointer;
+}
+
+.table{
+	border-collapse: collapse;
+	width: 80%;
+	margin:auto;
+}
+
+.footer{
+	background: #2B2727;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	font-size:15px;
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	padding-top: 10px;
+	
+	position: fixed;
+	left: 0;
+	bottom: 0;
+}
+
+.body{
+	background-color: aliceblue;
+	padding-bottom: 60px;
+	width: 100%;
+	left: 0;
+	bottom: 0;
+	overflow-x: hidden;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.video{
+	padding-left: 80px;
+}
+
+.container{
+	width: 100%;
+}
+
+	
